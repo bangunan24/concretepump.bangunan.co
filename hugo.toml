@@ -102,7 +102,7 @@ paginate = 6
   name = "{Joko|Agus|Bayu|Galih|Rizal|Bambang|Faisal|Ali|Toni|Deni}"
   message = "{Layanan concrete pump dari concretepump.bangunan.co {sangat memuaskan|luar biasa|mengesankan} untuk proyek cor kantor saya. Timnya {cepat tanggap|reaktif|sigap} dan pekerjaannya {rapi|teratur|presisi}.|Concrete pump dari concretepump.bangunan.co memberikan {hasil yang baik|layanan yang memuaskan|solusi yang tepat} untuk kantor saya. Timnya {cepat tanggap|sigap|responnya cepat} dan pekerjaannya {bersih|teratur|terorganisir}.}"
   response = "{Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi setiap proyek, termasuk {kantor|proyek|ruang kerja} Anda.|Kami senang dapat memberikan layanan berkualitas untuk proyek Anda. Terima kasih atas kepercayaannya! {Semoga proyek Anda sukses|Kami siap untuk proyek Anda berikutnya}.}"
-  rating = 4.5
+  rating = 4
 
 [[params.testimonials]]
   avatar = "/images/admin/avatar4.png"
