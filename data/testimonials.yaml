@@ -1,59 +1,58 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Andi
+    name: Rudi
     message: >-
       Saya menyewa concrete pump dari concretepump.bangunan.co untuk proyek
-      pengecoran rumah, dan hasilnya luar biasa. Proses dijalankan dengan baik,
-      tepat waktu, dan kualitasnya terbaik.
+      pengecoran rumah, dan hasilnya sangat memuaskan. Proses dijalankan dengan
+      baik, tepat waktu, dan kualitasnya terbaik.
     response: >-
       Terima kasih atas kepercayaannya! Kami senang dapat mendukung proyek
       pengecoran rumah Anda dengan kualitas prima.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Diah
+    name: Lina
     message: >-
-      Concretepump.bangunan.co sangat membantu dalam pembangunan ruko saya.
-      Layanan mereka kompeten, dan hasil akhirnya memenuhi ekspektasi dengan
-      yang saya inginkan.
+      Saya sangat terbantu dengan layanan dari concretepump.bangunan.co dalam
+      pembangunan ruko saya. Tim mereka berpengalaman dan hasilnya memuaskan.
     response: >-
-      Terima kasih atas kepercayaan Anda. Kami senang bisa membantu mewujudkan
-      ruko impian Anda. Kami siap membantu lagi di proyek berikutnya.
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan layanan kami dalam pembangunan ruko Anda.
     rating: 5
   - avatar: /images/admin/avatar3.png
-    name: Deni
+    name: Bambang
     message: >-
-      Concrete pump dari concretepump.bangunan.co memberikan solusi yang tepat
-      untuk kantor saya. Timnya responnya cepat dan pekerjaannya terorganisir.
+      Concrete pump dari concretepump.bangunan.co memberikan layanan yang
+      memuaskan untuk kantor saya. Timnya sigap dan pekerjaannya teratur.
     response: >-
-      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi
-      setiap proyek, termasuk kantor Anda.
+      Kami senang dapat memberikan layanan berkualitas untuk proyek Anda. Terima
+      kasih atas kepercayaannya! Kami siap untuk proyek Anda berikutnya.
     rating: 4
   - avatar: /images/admin/avatar4.png
-    name: Hendra
+    name: Eko
     message: >-
-      Saya senang dengan layanan sewa concrete pump dari
-      concretepump.bangunan.co. Prosesnya terkoordinasi dengan baik dan hasilnya
-      luar biasa.
+      Saya sangat puas dengan layanan sewa concrete pump dari
+      concretepump.bangunan.co. Prosesnya efisien dan hasilnya hebat.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih telah memilih
-      concrete pump kami untuk proyek Anda! Kami siap membantu proyek Anda
-      berikutnya.
+      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
+      kepercayaannya dalam menggunakan layanan kami! Semoga proyek berikutnya
+      berjalan lancar.
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Dewi
+    name: Maya
     message: >-
-      Pelayanan concretepump.bangunan.co mempercepat untuk proyek cor lantai
-      kantor saya. Solusi yang diberikan efisien dan bernilai tambah.
+      Pelayanan concretepump.bangunan.co memudahkan untuk proyek cor lantai
+      kantor saya. Solusi yang diberikan akurat dan efektif.
     response: >-
-      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
-      kami! Semoga hasilnya selalu memuaskan.
+      Terima kasih! Kami senang dapat membantu mewujudkan proyek cor lantai
+      kantor Anda dengan solusi terbaik.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Faisal
+    name: Toni
     message: >-
-      Concrete pump dari concretepump.bangunan.co membantu proyek pengecoran
-      rumah saya. Layanannya berpengalaman dan terorganisir.
+      Concrete pump dari concretepump.bangunan.co berhasil memenuhi harapan
+      proyek pengecoran rumah saya. Layanannya terpercaya dan terorganisir.
     response: >-
-      Kami senang mendengar bahwa Anda puas dengan layanan kami. Terima kasih
-      atas ulasannya!
+      Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
+      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
+      proyek lainnya.
     rating: 4
