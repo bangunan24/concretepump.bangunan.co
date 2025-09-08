@@ -1,58 +1,60 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rudi
+    name: Fajar
     message: >-
       Saya menyewa concrete pump dari concretepump.bangunan.co untuk proyek
-      pengecoran rumah, dan hasilnya sangat memuaskan. Proses dijalankan dengan
-      baik, tepat waktu, dan kualitasnya mengagumkan.
+      pengecoran rumah, dan hasilnya luar biasa. Proses berjalan lancar, tepat
+      waktu, dan kualitasnya mengagumkan.
     response: >-
       Terima kasih atas kepercayaannya! Kami senang dapat mendukung proyek
-      pengecoran rumah Anda dengan kualitas prima.
+      pengecoran rumah Anda dengan pelayanan unggulan.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Nur
-    message: >-
-      Saya sangat terbantu dengan layanan dari concretepump.bangunan.co dalam
-      pembangunan ruko saya. Tim mereka terlatih dan hasilnya optimal.
-    response: >-
-      Terima kasih atas kepercayaan Anda. Kami senang bisa membantu mewujudkan
-      ruko impian Anda. Kami siap membantu lagi di proyek berikutnya.
-    rating: 5
-  - avatar: /images/admin/avatar3.png
-    name: Toni
-    message: >-
-      Layanan concrete pump dari concretepump.bangunan.co mengesankan untuk
-      proyek cor kantor saya. Timnya reaktif dan pekerjaannya teratur.
-    response: >-
-      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi
-      setiap proyek, termasuk proyek Anda.
-    rating: 4
-  - avatar: /images/admin/avatar4.png
-    name: Benny
-    message: >-
-      Layanan sewa concrete pump dari concretepump.bangunan.co tanpa hambatan
-      dan hasilnya luar biasa.
-    response: >-
-      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
-      kepercayaannya dalam menggunakan layanan kami! Kami harap Anda kembali
-      lagi.
-    rating: 4
-  - avatar: /images/admin/avatar5.png
     name: Diah
     message: >-
-      Concretepump.bangunan.co memberikan solusi yang tepat dalam proyek cor
-      lantai kantor saya. Layanannya efisien dan hasilnya mengagumkan.
+      Concretepump.bangunan.co mengoptimalkan dalam pembangunan ruko saya.
+      Layanan mereka kompeten, dan hasil akhirnya memenuhi ekspektasi dengan
+      yang saya inginkan.
+    response: >-
+      Kami sangat menghargai ulasan Anda. Senang mendengar bahwa Anda puas
+      dengan layanan kami dalam pembangunan ruko Anda.
+    rating: 5
+  - avatar: /images/admin/avatar3.png
+    name: Deni
+    message: >-
+      Layanan concrete pump dari concretepump.bangunan.co sangat memuaskan untuk
+      proyek cor kantor saya. Timnya reaktif dan pekerjaannya presisi.
+    response: >-
+      Terima kasih! Kami berkomitmen untuk memberikan layanan terbaik bagi
+      setiap proyek, termasuk ruang kerja Anda.
+    rating: 4
+  - avatar: /images/admin/avatar4.png
+    name: Deni
+    message: >-
+      Saya gembira dengan layanan sewa concrete pump dari
+      concretepump.bangunan.co. Prosesnya terkoordinasi dengan baik dan hasilnya
+      luar biasa.
+    response: >-
+      Senang mendengar Anda puas dengan hasilnya. Terima kasih atas
+      kepercayaannya dalam menggunakan layanan kami! Semoga proyek berikutnya
+      berjalan lancar.
+    rating: 4
+  - avatar: /images/admin/avatar5.png
+    name: Sari
+    message: >-
+      Concretepump.bangunan.co menyediakan layanan unggulan dalam proyek cor
+      lantai kantor saya. Layanannya profesional dan hasilnya hebat.
     response: >-
       Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
-      kami! Kami siap membantu di proyek berikutnya.
+      kami! Semoga hasilnya selalu memuaskan.
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Yanto
+    name: Deni
     message: >-
-      Concrete pump dari concretepump.bangunan.co sangat mendukung proyek
-      pengecoran rumah saya. Layanannya profesional dan terorganisir.
+      Saya menyewa concrete pump untuk renovasi rumah, dan hasilnya menakjubkan.
+      Layanan yang diberikan concretepump.bangunan.co berkualitas.
     response: >-
       Terima kasih telah memilih concrete pump kami untuk renovasi rumah Anda.
-      Kami senang layanan kami sesuai dengan harapan Anda. Semoga proyek
-      berikutnya sukses.
+      Kami senang layanan kami sesuai dengan harapan Anda. Kami siap mendukung
+      proyek lainnya.
     rating: 4
