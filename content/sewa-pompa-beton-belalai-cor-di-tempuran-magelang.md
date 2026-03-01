@@ -1,6 +1,6 @@
 ---
 title: 'Sewa Pompa Beton [Belalai Cor] Di Tempuran Magelang'
-date: '2025-03-01'
+date: '2026-03-01'
 categories:
   - harga
 description: >-
