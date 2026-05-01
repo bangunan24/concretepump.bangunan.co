@@ -1,6 +1,6 @@
 ---
 title: Sewa Pompa Beton /Belalai Cor Di Bringin Semarang
-date: '2025-05-01'
+date: '2026-05-01'
 categories:
   - harga
 description: >-
