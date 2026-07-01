@@ -1,6 +1,6 @@
 ---
 title: Sewa Pompa Beton /Belalai Cor Di Argomulyo Kota Salatiga
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - harga
 description: >-

@@ -1,6 +1,6 @@
 ---
 title: Sewa Pompa Beton /Belalai Cor Di Bejen Temanggung
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - harga
 description: >-
