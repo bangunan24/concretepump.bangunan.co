@@ -1,6 +1,6 @@
 ---
 title: 'Sewa Pompa Beton [Belalai Cor] Di Rakit Banjarnegara'
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - harga
 description: >-
